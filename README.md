@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="Gumroad_Cover.png" width="800" alt="Orion Dealership Cover" />
+  
 
   <h1>🏎️ Orion Car Dealership Management System</h1>
   
